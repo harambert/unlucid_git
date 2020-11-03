@@ -1,0 +1,6 @@
+Converting GML script: ${project_dir}\scripts\draw_text_outlined\draw_text_outlined.gml
+Converted description /// @description draw_text_outlined(x, y, string, colour, outline_colour)/// @param x
+/// @param  y
+/// @param  string
+/// @param  colour
+/// @param  outline_colour

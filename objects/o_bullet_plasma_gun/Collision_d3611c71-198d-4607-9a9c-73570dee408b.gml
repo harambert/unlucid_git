@@ -1,0 +1,1 @@
+instance_change(o_bullet_plasma_hit,true);
